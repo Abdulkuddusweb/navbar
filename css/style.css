@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1365px;
+}
+
+.menubar .logo {
+  width: 381px;
+  float: left;
+  margin-top: 6px;
+}
+
+.menuItmes {
+  width: 585px;
+  float: right;
+}
+.menuItmes ul li {
+  list-style: none;
+  padding: 20px;
+  float: left;
+}
+
+.menuItmes ul li {
+  padding: 19px 0px;
+  float: left;
+}
+
+.menuItmes ul {
+  list-style: none;
+}
+
+.menuItmes ul li a {
+  padding: 20px 14px;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: inherit;
+}
+.container {
+  display: table;
+  background: #04425f;
+  text-align: center;
+  margin-top: 50px;
+}
+.live_class {
+  background: #ea2c2c;
+  border-radius: 4px;
+}
+
+.menuItmes ul li a:hover {
+  background: #009688;
+}
+.active {
+  background-color: #009688;
+}
+/*End*/
+
+.containers {
+  width: 1365px;
+  display: table;
+  background: #1b1919;
+  margin-top: 20px;
+}
+
+.menubars .logos {
+  width: 381px;
+  float: left;
+  margin-top: 6px;
+  text-align: center;
+}
+
+.menuItmess {
+  width: 585px;
+  float: right;
+}
+.menuItmess ul li {
+  list-style: none;
+  padding: 20px;
+  float: left;
+}
+
+.menuItmess ul li {
+  padding: 19px 0px;
+  float: left;
+}
+
+.menuItmess ul {
+  list-style: none;
+}
+
+.menuItmess ul li a {
+  padding: 20px 14px;
+  color: #ff5722;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: monospace;
+  font-weight: 800;
+}
+.containerss {
+  display: table;
+  background: #04425f;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.menuItmess ul li a:hover {
+  background: #f4f5f7;
+  border-bottom: 4px solid red;
+  border-top: 4px solid red;
+}
+.actives {
+  background-color: #ffffff;
+  border-bottom: 4px solid red;
+  border-top: 4px solid red;
+}
+
+.just_content h1 {
+  text-align: center;
+  margin-top: 34px;
+  background: #04425f;
+  width: 400px;
+  margin-left: 476px;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+}
+
+/*img*/
+
+.border_img {
+  width: 250px;
+  height: 250px;
+  background: red;
+  border-radius: 50%;
+  margin-left: 557px;
+  margin-top: 21px;
+}
+
+.border_img img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 4px solid red;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 24px;
+  font-family: inherit;
+  background: #eaeaea;
+  padding-bottom: 20px;
+}
